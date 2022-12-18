@@ -17,7 +17,7 @@
 
 </div>
 
-## Very first steps (remove this after all the way to below)
+## Very first steps
 
 ### Initialize your code
 

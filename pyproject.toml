@@ -5,13 +5,13 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "python-package-template"
-version = "1.0.0"
+version = "1.1.1"
 description = "Cookiecutter template for Python cli/packages"
 readme = "README.md"
-authors = ["Thamognya <contact@gmail.com>"]
-license = "AGPL3-or-later"
-repository = "https://github.com/thamognya/python-package-template"
-homepage = "https://github.com/thamognya/python-package-template"
+authors = ["Roman Tezikov <tez.romach@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/TezRomacH/python-package-template"
+homepage = "https://github.com/TezRomacH/python-package-template"
 keywords = [
     "python",
     "cookiecutter",
