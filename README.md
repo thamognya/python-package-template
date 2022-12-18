@@ -1,4 +1,4 @@
-# Python Packages Project Generator
+# Python Packages Project Generator by [TezRomacH](https://github.com/TezRomacH/python-package-template)
 
 <div align="center">
 
